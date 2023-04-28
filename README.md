@@ -10,7 +10,7 @@ Note Taker is an application that allows users to write and save notes. This app
 
 The goal of this project is to build the back end of the application, connect it to the front end, and deploy the entire application to Heroku. By completing this challenge, I gained practical experience with key web development technologies such as Express.js, routing, and working with JSON data.
 
-In addition to building a functional note-taking application, this project helped me develop problem-solving skills and the ability to work with both front-end and back-end technologies. Completing the Note Taker challenge is an important step in my development as a web developer and prepares me for future web development challenges.
+Completing the Note Taker challenge and deploying it on Heroku has been a great experience for me as a web developer. It has not only helped me build a functional note-taking application, but it has also provided me with practical experience in working with both front-end and back-end technologies. Through this project, I have been able to develop my problem-solving skills, gain experience in handling database connectivity, and routing. Overall, this project has been a significant step forward in my development as a web developer, and it has prepared me for future web development challenges.
 
 ## Table of Contents
 
