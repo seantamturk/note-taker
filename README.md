@@ -55,6 +55,7 @@ To use Note Taker, navigate to the root directory of the repository in your term
 - Express.js
 - Node.js
 - UUID
+- Heroku
 
 ## Contributing
 
