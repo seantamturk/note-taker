@@ -2,6 +2,8 @@
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+![Site Image](./assets/images/websiteimage.png)
+
 ## Description
 
 Note Taker is an application that allows users to write and save notes. This application uses an Express.js back end and retrieves and stores note data from a JSON file.
@@ -70,10 +72,6 @@ Contributions to Note Taker are welcome! To contribute, please follow these step
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. 
 
 ## Links
-
-## Links
-- [Link to walkthrough video](https://drive.google.com/file/d/1NNusyOaA_a93R7f7zrw8Ov2vbdQjv3Zi/view?usp=share_link)
-- [Repository](https://github.com/seantamturk/SVG-Logo-Maker)
+- [Repository](https://github.com/seantamturk/note-taker)
+- [Website]()
 - [Linkedin](https://www.linkedin.com/in/sean-tamturk-8253b722a/)
-
-![SVG Example](./examples/circle.png)
